@@ -11,4 +11,7 @@ FEATURES
 - Users also can change their passwords.
 - Admins can change the prices of products.
 
+Partners:
+https://github.com/HuseyinHira
+
 
